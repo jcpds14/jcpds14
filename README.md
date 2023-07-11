@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jcpds14" alt="jcpds14" /></a> </p>
 
-- 🌱 I’m currently learning **WordPress, PHP**
+- 🌱 I’m currently learning **JAVA**
 
 - 📫 How to reach me **jcpds14@gmail.com**
 
